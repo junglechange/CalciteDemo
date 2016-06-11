@@ -1,0 +1,30 @@
+/target/
+
+# maven ignore
+target/
+logs/
+log/
+.gitkeep
+.checkstyle
+/.metadata/
+
+/Servers/
+/RemoteSystemsTempFiles/
+
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+bin/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
